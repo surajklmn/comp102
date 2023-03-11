@@ -15,4 +15,5 @@ int main(){
 		}
 		printf("Factorial of the entered number is %i\n",fact);
 	}
+	return 0;
 }
