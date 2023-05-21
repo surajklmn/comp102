@@ -36,7 +36,7 @@ int main(){
 
 }
 unsigned long long factorial(int a){
-	long fact = 1;
+	unsigned long long fact = 1;
 	for(int i = a; i > 0; i--){
 		fact = fact*i;
 	}
