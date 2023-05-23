@@ -3,8 +3,6 @@
 unsigned long long factorial(int a);
 void prime(int a);
 void even(int a);
-
-
 int main(){
 	int num;
 	char choice;
